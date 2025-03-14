@@ -1,0 +1,13 @@
+name: mpa
+channels:
+    - bioconda
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.12.9
+    - conda-forge::pandas=2.2.3
+    - bioconda::metaphlan=4.1.1
+    - bioconda::fastp=0.24.0
+    - bioconda::fastqc=0.12.1
+    - bioconda::nextflow=24.10.4
+    - bioconda::multiqc=1.27.1

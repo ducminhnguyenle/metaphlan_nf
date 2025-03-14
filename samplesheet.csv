@@ -1,0 +1,4 @@
+sample,read1,read2
+S1,fastq/ERR6170282_1.fastq.gz,fastq/ERR6170282_2.fastq.gz
+S2,fastq/ERR6170285_1.fastq.gz,fastq/ERR6170285_2.fastq.gz
+S3,fastq/ERR14036909.fastq.gz,

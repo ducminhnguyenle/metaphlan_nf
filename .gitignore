@@ -1,0 +1,6 @@
+.nextflow*
+raw/
+output/
+run_nextflow.sh
+metaphlan4_db_202403/
+work/
